@@ -25,7 +25,7 @@ Open the .pbix file
 View the dashboard
 Use filters if available
 ## Author
-Your Name
+L.VISHNU VARDHAN
 ## Conclusion
 
 This dashboard helps understand student performance in a simple way.
